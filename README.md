@@ -10,8 +10,8 @@ My name is Touko Henttinen and I'm a first-year Information and Communications T
 
 ## 🚀 Projects
 
-👉 Click here to see all my projects:  
-[My Projects Repository](https://github.com/ToukoHenttinen/projects)
+  
+[Click here to see all my projects:](https://github.com/ToukoHenttinen/projects)
 
 ---
 
