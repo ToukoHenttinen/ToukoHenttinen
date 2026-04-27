@@ -9,7 +9,7 @@ My name is Touko Henttinen and I'm a first-year Information and Communications T
 ##  Projects
 
  
-[![View My Other Projects](https://img.shields.io/badge/View%20My%20Projects-%231f6feb?style=for-the-badge&logo=github)](https://github.com/ToukoHenttinen?tab=repositories)
+[![View My Projects](https://img.shields.io/badge/View%20My%20Projects-%231f6feb?style=for-the-badge&logo=github)](https://github.com/ToukoHenttinen?tab=repositories)
 
 ---
 
