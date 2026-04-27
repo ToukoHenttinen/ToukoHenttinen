@@ -2,9 +2,7 @@
 
 My name is Touko Henttinen and I'm a first-year Information and Communications Technology student (Engineering) at Oulu University of Applied Sciences (OAMK).
 
- I'm currently learning C/C++, Python, and fundamentals of embedded systems and software development.
-
- My goal is to build practical programming skills through real projects and hands-on learning.
+ I'm currently learning C/C++ and fundamentals of embedded systems and software development.
 
 ---
 
