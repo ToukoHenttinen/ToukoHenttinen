@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Touko Henttinen and I'm a first-year Information and Communications Technology student (Engineering) at Oulu University of Applied Sciences (OAMK), specializing in device-oriented systems.
+My name is Touko Henttinen and I'm a first-year Information and Communications Technology student (Engineering) at Oulu University of Applied Sciences (OAMK).
 
  I'm currently learning C/C++, Python, and fundamentals of embedded systems and software development.
 
