@@ -19,8 +19,4 @@ My name is Touko Henttinen and I'm a first-year Information and Communications T
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ToukoHenttinen&layout=compact&theme=react&hide_border=true)](https://github.com/ToukoHenttinen)
 
----
 
-##  Interests
-
-Music • Gaming • Technology
