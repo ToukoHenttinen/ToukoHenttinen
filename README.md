@@ -20,4 +20,4 @@ My name is Touko Henttinen and I'm a first-year Information and Communications T
 
 ![Weekly commits](https://github-readme-streak-stats.herokuapp.com/?user=ToukoHenttinen&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-
+---
