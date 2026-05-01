@@ -17,6 +17,6 @@ My name is Touko Henttinen and I'm a first-year Information and Communications T
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ToukoHenttinen&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/ToukoHenttinen)
 
-![Weekly commits](https://github-readme-streak-stats.herokuapp.com/?user=ToukoHenttinen&theme=tokyonight&hide_border=true&cache_seconds=180)
+![Weekly commits](https://github-readme-streak-stats.herokuapp.com/?user=ToukoHenttinen&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
